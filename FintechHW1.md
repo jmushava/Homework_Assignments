@@ -17,7 +17,9 @@ Robinhood’s intended customer is the average American who cannot afford high b
 Some key Robinhood statistics:
 
 •	Robinhood’s average user age is 31
+
 •	Robinhood’s average account size is $3,500
+
 •	As of July 2021, Robinhood has 18 million active users
  
 Robinhood offers commission-free stock, ETF and options trades, and free cryptocurrency trading. They also have uniform interest rates and no-account minimums. They also give investors the ability to buy fractional shares. All these factors give Robinhood a competitive advantage because it means that anyone with any amount of money can invest. 
@@ -40,13 +42,13 @@ When it comes to Robinhood’s impact, even though the company has had its share
 
 With any company, you have to look at its performance relative to other companies in its industry. When it comes to this domain, we can review the following:
 
-1.	Acquisition Metrics- Robinhood has seen tremendous growth, they’ve gone from 0.5 million active users to 18 million and climbing in 6 years
-2.	Activation Metrics- Robinhood’s platform is simple but meets investor needs
-3.	Retention Metrics- Judging by the user growth, it seems new users are coming, liking what they see and staying
-4.	Referrals- Robinhood offers a free stock for every referral which is enticing to potential investors
-5.	Revenues- Robinhood’s revenue has grown from $2.9 million to $959 million in 5 years
-6.	Marketing Metrics –It seems word of mouth is the best marketing tool for Robinhood
-7.	Technical Metrics- Robinhood has had its fair share of technical issues, and this may be attributed to their emphasis on simplicity, but for users, you can navigate the trading platform very easily
+1.	**Acquisition Metrics**- Robinhood has seen tremendous growth, they’ve gone from 0.5 million active users to 18 million and climbing in 6 years
+2.	**Activation Metrics**- Robinhood’s platform is simple but meets investor needs
+3.	**Retention Metrics**- Judging by the user growth, it seems new users are coming, liking what they see and staying
+4.	**Referrals**- Robinhood offers a free stock for every referral which is enticing to potential investors
+5.	**Revenues**- Robinhood’s revenue has grown from $2.9 million to $959 million in 5 years
+6.	**Marketing Metrics**– It seems word of mouth is the best marketing tool for Robinhood
+7.	**Technical Metrics**- Robinhood has had its fair share of technical issues, and this may be attributed to their emphasis on simplicity, but for users, you can navigate the trading platform very easily
 
 Looking at these metrics, there is room for improvement, but I think Robinhood is growing and evolving and as an active user, I am optimistic about the future. 
 
@@ -64,39 +66,39 @@ For lack of information and education, I would suggest more being offered for fr
 
 With regards to outages and technical issues, this is an issue that almost every trading platform has faced at some point likely because the trade volume and/or traffic was underestimated. Unfortunately, this results in customers losing money: every investor’s trading nightmare. My suggestion going forward would be to over prepare and improve their software and hardware capacity, especially as individual investors are only increasing on the market. 
 
-Overall Robinhood has achieved what it set out to do, democratizing finance for all. They have a lot more improving to do, but I’m optimistic that the downsides to the trading platform are just growing pains that will be overcome with time. Robinhood has just purchased Say in an attempt to improve shareholder-company relations. This is a step in the right direction and hopefully now that Robinhood has recently gone public, they will use the influx of capital to improve on the issues and concerns customers have posed.  
+Overall, Robinhood has achieved what it set out to do, democratizing finance for all. They have a lot more improving to do, but I’m optimistic that the downsides to the trading platform are just growing pains that will be overcome with time. Robinhood has just purchased Say in an attempt to improve shareholder-company relations. This is a step in the right direction and hopefully now that Robinhood has recently gone public, they will use the influx of capital to improve on the issues and concerns customers have posed.  
 
 ## Sources
 
 •	Robinhood 
-https://robinhood.com/us/en/about-us/
+  https://robinhood.com/us/en/about-us/
 
 •	Nerd Wallet
-https://www.nerdwallet.com/reviews/investing/brokers/robinhood
+  https://www.nerdwallet.com/reviews/investing/brokers/robinhood
 
 •	CrunchBase
-https://www.crunchbase.com/organization/robinhood/company_financials
+  https://www.crunchbase.com/organization/robinhood/company_financials
 
 •	Yahoo Finance
-https://finance.yahoo.com/quote/HOOD?p=HOOD
-https://www.yahoo.com/now/fintech-analytics-top-7-metrics-182104952.html
-https://www.yahoo.com/now/top-10-best-fintech-companies-144738653.html
+  https://finance.yahoo.com/quote/HOOD?p=HOOD
+  https://www.yahoo.com/now/fintech-analytics-top-7-metrics-182104952.html
+  https://www.yahoo.com/now/top-10-best-fintech-companies-144738653.html
 
 •	Business of Apps
-https://www.businessofapps.com/data/robinhood-statistics/
+  https://www.businessofapps.com/data/robinhood-statistics/
 
 •	Stackshare
-https://stackshare.io/robinhood/robinhood
+  https://stackshare.io/robinhood/robinhood
 
 •	Robinhood Case Study
-https://aws.amazon.com/solutions/case-studies/robinhood/
+  https://aws.amazon.com/solutions/case-studies/robinhood/
 
 •	CFA Institute- Investment Management
-https://www.cfainstitute.org/-/media/documents/support/programs/cfa/cfa-program-level-iii-fintech-in-investment-management.ashx?la=en&hash=7E8E4B151F5FA24E1B21D3A17A3F1BE9E8F3960E
+  https://www.cfainstitute.org/-/media/documents/support/programs/cfa/cfa-program-level-iii-fintech-in-investment-management.ashx?   la=en&hash=7E8E4B151F5FA24E1B21D3A17A3F1BE9E8F3960E
 
 •	Insider Monkey 
-https://www.insidermonkey.com/blog/top-5-best-fintech-companies-and-stocks-in-2021-931265/?singlepage=1
+  https://www.insidermonkey.com/blog/top-5-best-fintech-companies-and-stocks-in-2021-931265/?singlepage=1
 
 •	CNBC
-https://www.cnbc.com/2021/05/25/robinhoods-disruptive-trade-the-good-the-bad-and-the-controversy.html
+  https://www.cnbc.com/2021/05/25/robinhoods-disruptive-trade-the-good-the-bad-and-the-controversy.html
 
